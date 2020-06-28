@@ -1,1 +1,1 @@
-First test repo on the Complete Ruby on Rails developer by Sisay Sarke
+First test repo on Ruby on Rails
